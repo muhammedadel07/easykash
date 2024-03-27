@@ -1,4 +1,4 @@
-# Easykash_technical_interview
+# Easykash
 
 # Run app
 
