@@ -15,5 +15,4 @@ npm run dev
 
 now the project should run correctly
 
-http://localhost:9090/sellers
 response will be empty array
